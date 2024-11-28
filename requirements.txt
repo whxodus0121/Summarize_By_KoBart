@@ -1,0 +1,11 @@
+fastapi==0.115.5
+uvicorn==0.32.1
+python-multipart==0.0.17
+transformers==4.46.3
+tokenizers==0.20.4
+torch==2.5.1
+huggingface-hub==0.26.2
+safetensors==0.4.5
+numpy==2.0.2
+regex==2024.11.6
+requests==2.32.3

@@ -1,0 +1,6 @@
+*.log
+*.tar
+__pycache__/
+.dockerignore
+venv/
+
